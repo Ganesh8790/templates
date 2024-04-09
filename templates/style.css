@@ -1,0 +1,144 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+.title {
+  background-color: rgb(71, 116, 188);
+  color: #fff;
+  font-size: 30px;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.title h1 {
+  margin: 0;
+}
+
+.heading {
+  padding: 10px;
+}
+
+.heading h1 {
+  color: #333;
+  font-size: 35px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.text {
+  margin-left: 150px;
+  margin-right: 150px;
+}
+.heading p,
+li {
+  line-height: 1.5;
+  font-size: 20px;
+  font-style: normal;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.subheading {
+  text-align: center;
+}
+.Content {
+  margin-top: 25px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+/* description */
+
+.dheading strong {
+  color: #333;
+  font-size: 35px;
+  display: block;
+  /* text-align: center; */
+  margin-bottom: 10px;
+}
+
+.Content p {
+  line-height: 1.5;
+  font-size: 20px;
+  font-style: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/* education */
+.Education p {
+  line-height: 1.5;
+  margin-left: 10px;
+  font-size: 20px;
+  font-style: normal;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Experiments */
+
+.Experiments p {
+  line-height: 1.5;
+  margin-left: 10px;
+  font-size: 20px;
+  font-style: normal;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.etitle {
+  background-color: rgb(71, 116, 188);
+  color: #fff;
+  font-size: 30px;
+  text-align: center;
+  padding: 20px 0px;
+}
+
+#esubheading {
+  color: #333;
+  font-size: 25px;
+  text-align: center;
+}
+
+/* human-practices */
+
+.page p {
+  line-height: 1.5;
+  margin-left: 10px;
+  font-size: 20px;
+  font-style: normal;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* model */
+.model-subheading {
+  color: #333;
+  text-align: center;
+}
+
+.model-subheading2 h3 {
+  color: #333;
+  text-align: center;
+}
+
+.model {
+  margin-left: 10px;
+}
+
+/* results */
+.Content li {
+  line-height: 1.5;
+  margin-left: 10px;
+  font-size: 20px;
+  font-style: normal;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.results {
+  margin-left: 10px;
+}
+
+/* software */
+
+.software {
+  margin-left: 10px;
+}
